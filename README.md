@@ -1,2 +1,2 @@
 # jira-github-sync
-Repo to test HitHub jira syncing
+Repo to test GitHub jira syncing
